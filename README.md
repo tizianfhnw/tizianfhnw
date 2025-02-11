@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+I'm currently working on a project called SIMPLA Grün that aims to improve the quality of biowaste.
+I'm currently learning more about python and larger coding projects!
 <!--
 **tizianfhnw/tizianfhnw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
